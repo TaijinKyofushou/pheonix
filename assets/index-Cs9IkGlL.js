@@ -1,4 +1,4 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/NodeShell-C_4OfSGx.js","assets/NodeShell-nmK4-ef2.css"])))=>i.map(i=>d[i]);
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/NodeShell-DvNZ3enJ.js","assets/NodeShell-DMt-1r-X.css"])))=>i.map(i=>d[i]);
 (function(){const t=document.createElement("link").relList;if(t&&t.supports&&t.supports("modulepreload"))return;for(const s of document.querySelectorAll('link[rel="modulepreload"]'))r(s);new MutationObserver(s=>{for(const i of s)if(i.type==="childList")for(const o of i.addedNodes)o.tagName==="LINK"&&o.rel==="modulepreload"&&r(o)}).observe(document,{childList:!0,subtree:!0});function n(s){const i={};return s.integrity&&(i.integrity=s.integrity),s.referrerPolicy&&(i.referrerPolicy=s.referrerPolicy),s.crossOrigin==="use-credentials"?i.credentials="include":s.crossOrigin==="anonymous"?i.credentials="omit":i.credentials="same-origin",i}function r(s){if(s.ep)return;s.ep=!0;const i=n(s);fetch(s.href,i)}})();/**
 * @vue/shared v3.5.31
 * (c) 2018-present Yuxi (Evan) You and Vue contributors
@@ -106,17 +106,8 @@ BerLin：谢谢你`,timeline:"2025年4月6日"},31:{id:31,role:"fullPage",kind:"
 爝者_，_年_月_日许愿，其愿为死而复生，薪主_。
 爝者_，_年_月_日许愿，其愿为知足常乐，薪主_。
 爝者_，_年_月_日许愿，其愿为学业有成，薪主_。
-爝者_，_年_月_日许愿，其愿为存在抹除，薪主_。
-今尘埃已定，业果已成，敕令薪火归垣，涅槃重生。`,timeline:"2025年4月6日"},33:{id:33,role:"fullPage",kind:"endingFake",content:"",timeline:""},34:{id:34,role:"fullPage",kind:"endingTrue",content:`你：学长这是我的计组大作业
-你：计组期中大作业.zip
-Life：收到
-你：对了学长
-你：你认识___吗？（可选择 BerLin/Lysoar/zjc
-Life：没听过
-Life：这名字听起来（很聪明/人很好/很亲切）的样子
-你：没事
-你：我就问一下
-你：谢谢学长`,timeline:"2025年4月7日"}},Cf={2:{keyword:"黄文礼",timeline:"2026年2月10日",content:`
+爝者_，_年_月_日许愿，其愿为愿望抹除，薪主_。
+今尘埃已定，业果已成，敕令薪火归垣，涅槃重生。`,timeline:"2025年4月6日"},33:{id:33,role:"fullPage",kind:"endingFake",content:"",timeline:""},34:{id:34,role:"fullPage",kind:"endingTrue",content:"",timeline:""}},Cf={2:{keyword:"黄文礼",timeline:"2026年2月10日",content:`
       BerLin：昨天课程报告怎么样@Lysoar
       BerLin：这回黄文礼没有为难你了吧？
       Lysoar：别提了TT
@@ -446,7 +437,7 @@ hfmi0dzjc927：你往上翻翻聊天记录呢`},{timeline:"2026年3月28日",con
               BerLin：然后你也别死，等我好消息
               hfmi0dzjc927：……随便吧
               BerLin：你信不信我无所谓
-              BerLin：你只要别死
+              BerLin：但是你得活着
               BerLin：瞿东豪需要你活着
               hfmi0dzjc927：他不需要
               hfmi0dzjc927：他只是觉得自己欠我
@@ -520,14 +511,14 @@ Lysoar： 说不上来`},{timeline:"2026年1月12日",content:`Lysoar：[[才二
             Lysoar：那张峻程又是怎么回事`},{timeline:"2026年4月3日",content:`Lysoar：[[电子病历.pdf]]
             Lysoar：多器官衰竭
             Lysoar：如果说张峻程也许过愿呢`},{timeline:"2026年4月4日",content:`Lysoar：因果要闭合才能成环
-            Lysoar：环外人才能干涉因果`}]}]}};function Tf(e){return _l[e]}const xf={黄文礼:2,张杨:3,美赛:4,教三地下室:5,凤凰还愿:9,重明龛:16,北医三院:20,"破局之机，惟环外也":25},Pf={薪火焚身:13,玄坛秘笺:14,爝火赓炁:15,重明龛:26},Of={1:6,2:10,3:17,4:21,5:24,6:29,7:28},vl=new Set([2,3,4,5,9,16,20,25]),If="academicPaper34",Nf=[{wisher:"张峻程",year:"2010",month:"8",day:"7",wishReceiver:"瞿东豪"},{wisher:"瞿东豪",year:"2025",month:"12",day:"31",wishReceiver:"张柏霖"},{wisher:"张柏霖",year:"2026",month:"2",day:"10",wishReceiver:"梁优好"},{wisher:"梁优好",year:"2026",month:"4",day:"6",wishReceiver:"张峻程"}];function Ci(e){const t=r=>r.trim(),n=e.rows;return[`爝者${t(n[0].wisher)}，${t(n[0].year)}年${t(n[0].month)}月${t(n[0].day)}日许愿，其愿为死而复生，薪主${t(n[0].wishReceiver)}。`,`爝者${t(n[1].wisher)}，${t(n[1].year)}年${t(n[1].month)}月${t(n[1].day)}日许愿，其愿为知足常乐，薪主${t(n[1].wishReceiver)}。`,`爝者${t(n[2].wisher)}，${t(n[2].year)}年${t(n[2].month)}月${t(n[2].day)}日许愿，其愿为学业有成，薪主${t(n[2].wishReceiver)}。`,`爝者${t(n[3].wisher)}，${t(n[3].year)}年${t(n[3].month)}月${t(n[3].day)}日许愿，其愿为存在抹除，薪主${t(n[3].wishReceiver)}。`,"今尘埃已定，业果已成，敕令薪火归垣，涅槃重生。"].join(`
+            Lysoar：环外人才能干涉因果`}]}]}};function Tf(e){return _l[e]}const xf={黄文礼:2,张杨:3,美赛:4,教三地下室:5,凤凰还愿:9,重明龛:16,北医三院:20,"破局之机，惟环外也":25},Pf={薪火焚身:13,玄坛秘笺:14,爝火赓炁:15,重明龛:26},Of={1:6,2:10,3:17,4:21,5:24,6:29,7:28},vl=new Set([2,3,4,5,9,16,20,25]),If="academicPaper34",Nf=[{wisher:"张峻程",year:"2010",month:"8",day:"7",wishReceiver:"瞿东豪"},{wisher:"瞿东豪",year:"2025",month:"12",day:"31",wishReceiver:"张柏霖"},{wisher:"张柏霖",year:"2026",month:"2",day:"8",wishReceiver:"梁优好"},{wisher:"梁优好",year:"2026",month:"4",day:"5",wishReceiver:"张峻程"}];function Ci(e){const t=r=>r.trim(),n=e.rows;return[`爝者${t(n[0].wisher)}，${t(n[0].year)}年${t(n[0].month)}月${t(n[0].day)}日许愿，其愿为死而复生，薪主${t(n[0].wishReceiver)}。`,`爝者${t(n[1].wisher)}，${t(n[1].year)}年${t(n[1].month)}月${t(n[1].day)}日许愿，其愿为平安喜乐，薪主${t(n[1].wishReceiver)}。`,`爝者${t(n[2].wisher)}，${t(n[2].year)}年${t(n[2].month)}月${t(n[2].day)}日许愿，其愿为学业有成，薪主${t(n[2].wishReceiver)}。`,`爝者${t(n[3].wisher)}，${t(n[3].year)}年${t(n[3].month)}月${t(n[3].day)}日许愿，其愿为因果抹除，薪主${t(n[3].wishReceiver)}。`,"今尘埃已定，业果已成，敕令薪火归垣，涅槃重生。"].join(`
 `)}function Bf(e){const t=Ci({rows:Nf});return Ci({rows:e.rows})===t}const Ll="pheonix-avg-game-v1";function Df(){try{const e=localStorage.getItem(Ll);return e?JSON.parse(e):null}catch{return null}}const kf=au("game",()=>{const e=xe(new Set([0,1,7])),t=xe(new Set([1])),n=xe(!1),r=xe("none"),s=xe(new Set),i=xe(!1),o=xe(!1),l=xe(!1),c=xe(!1),u=xe(!1),a=xe(!1);function f(){const C={unlockedNodeIds:[...e.value],chatBlockIds:[...t.value],forumLoggedIn:n.value,chatLoginUser:r.value,viewedSegments:[...s.value],puzzleSolved:i.value,ending30SeenIntro:l.value,forumHauntedAfter26:c.value};localStorage.setItem(Ll,JSON.stringify(C))}function p(){var j,q,_e;const C=Df();if(!C){a.value=!0,T();return}(j=C.unlockedNodeIds)!=null&&j.length&&(e.value=new Set(C.unlockedNodeIds)),(q=C.chatBlockIds)!=null&&q.length&&(t.value=new Set(C.chatBlockIds)),typeof C.forumLoggedIn=="boolean"&&(n.value=C.forumLoggedIn),C.chatLoginUser&&["none","berlin","lysoar","hfmi0dzjc927"].includes(C.chatLoginUser)&&(r.value=C.chatLoginUser),(_e=C.viewedSegments)!=null&&_e.length&&(s.value=new Set(C.viewedSegments)),typeof C.puzzleSolved=="boolean"&&(i.value=C.puzzleSolved),typeof C.ending30SeenIntro=="boolean"&&(l.value=C.ending30SeenIntro),typeof C.forumHauntedAfter26=="boolean"&&(c.value=C.forumHauntedAfter26),a.value=!0,T()}Gt([e,t,n,r,s,i,l,c,u],()=>{a.value&&f()},{deep:!0});function g(C){e.value.has(C)||(e.value=new Set(e.value).add(C)),C===10&&(e.value.has(11)||(e.value=new Set(e.value).add(11))),C===17&&(e.value=new Set(e.value).add(18)),C===21&&(e.value=new Set(e.value).add(22)),T()}function b(C){!vl.has(C)&&C!==1||(t.value.has(C)||(t.value=new Set(t.value).add(C)),g(C),T())}function S(C){const j=C.trim(),q=xf[j];return q?(b(q),!0):!1}function k(C){if(!n.value)return!1;const j=C.trim(),q=Pf[j];return q?(g(q),!0):!1}function B(C){const j=Of[C];j!=null&&g(j)}function w(C){s.value.has(C)||(s.value=new Set(s.value).add(C),T())}function D(C,j){return C.trim().toLowerCase()!=="life"?"no_account":j!=="Life"?"bad_password":(n.value=!0,g(27),g(12),"ok")}function I(C,j){const q=j.trim(),_e=C.trim().toLowerCase();if(_e==="life")return"no_account";const Ue=_e==="berlin",Ne=_e==="lysoar",ve=_e==="hfmi0dzjc927";return!Ue&&!Ne&&!ve?"no_account":Ue?q!=="66605088"?"bad_password":(r.value="berlin",g(8),"ok"):ve?q!=="20100807"?"bad_password":(r.value="hfmi0dzjc927",g(19),"ok"):Ne?q!=="GUtoA7sX"?"bad_password":(r.value="lysoar",g(23),"ok"):"no_account"}function F(){r.value="none",a.value&&f()}function Q(C){const j=Bf(C);return i.value=j,g(33),j}function J(){o.value=!0}function U(){g(31)}function A(){g(32)}function K(){i.value&&g(34)}const Y=xe(!1);function T(){s.value.has(If)&&!Y.value&&(Y.value=!0,g(30))}function X(){e.value=new Set([0,1,7]),t.value=new Set([1]),n.value=!1,r.value="none",s.value=new Set,i.value=!1,o.value=!1,l.value=!1,Y.value=!1,c.value=!1,f()}function de(){c.value=!0}const ye=C=>e.value.has(C);return p(),{unlockedNodeIds:ae(()=>e.value),chatBlockIds:ae(()=>t.value),forumLoggedIn:ae(()=>n.value),chatLoginUser:ae(()=>r.value),viewedSegments:ae(()=>s.value),puzzleSolved:ae(()=>i.value),ending30Available:ae(()=>Y.value),ending30ReadyFor31:ae(()=>o.value),ending30SeenIntro:ae(()=>l.value),ending30Playing:ae(()=>u.value),forumHauntedAfter26:ae(()=>c.value),markForumHauntedAfterNode26:de,unlockNode:g,unlockChatBlock:b,tryChatKeywordSearch:S,tryForumKeywordSearch:k,openShareLink:B,markSegment:w,loginForumLife:D,loginChat:I,logoutChat:F,submitPuzzle:Q,finishEnding30Messages:J,unlockNarrative31:U,unlockPuzzle32:A,unlockTrueEnding34:K,resetProgress:X,isUnlocked:ye,maybeUnlockEnding30:T,setEnding30Playing:C=>{u.value=C}}}),Mf=new Set([10,11,12,13,14,27]),Ti=`我知道你很急，但是你先别急。
 
-事情要一件一件来。你没弄清楚前面发生了什么，直接跳到这儿只会把自己绕进去。`,jf=`哇噻，这就想直接看结局了？
+没弄清楚前面发生了什么的话，直接跳到这里只会把自己绕进去。`,jf=`哇噻，这就想直接看结局了？
 
-不是我不让你看，是方法不对。你得先把因果搞清楚——谁在什么时候许了什么愿，代价是什么，一环扣一环。
+我也不想拦着你，但方法不对。你要先把因果搞清楚——谁在什么时候许了什么愿，代价是什么，一环扣一环。
 
-少一环，这结局你看了也白看。`,Ff=`你就这么想走这条线？
+就算少了一环，这结局看了也无济于事。`,Ff=`你就这么想走这条线？
 
 那我告诉你，这条路通向的地方，没有人记得任何事。
 
@@ -535,6 +526,6 @@ Lysoar： 说不上来`},{timeline:"2026年1月12日",content:`Lysoar：[[才二
 
 想清楚了再决定。`,xi=`你在找什么？
 
-有些东西不是藏得深，是真的不存在。
+不是我想藏什么，是真的不存在。
 
-别白费力气了，回到你能看到的地方去。`;function jt(e,t){alert(e),t({path:"/node/1",replace:!0})}const bl=mf({history:qu("/pheonix/"),routes:[{path:"/",redirect:"/node/0"},{path:"/node/:id",name:"node",component:()=>Sf(()=>import("./NodeShell-C_4OfSGx.js"),__vite__mapDeps([0,1])),props:!0}]}),Hf="我还没说完……你真的要走吗？";bl.beforeEach((e,t,n)=>{if(e.name!=="node"){n();return}const r=Number(e.params.id);if(Number.isNaN(r)){jt(xi,n);return}if(vl.has(r)){jt(Ti,n);return}if(!Number.isInteger(r)||Tf(r)==null){jt(xi,n);return}const s=kf(),i=s.ending30Playing.value??s.ending30Playing,o=s.ending30ReadyFor31.value??s.ending30ReadyFor31;if(t.path==="/node/30"&&i&&!o){confirm(Hf)?(s.setEnding30Playing(!1),n()):n(!1);return}if(!s.isUnlocked(r)){if(r===34){jt(jf,n);return}if(r===33){jt(Ff,n);return}jt(Ti,n);return}if(s.forumHauntedAfter26&&Mf.has(r)){s.unlockNode(15),n({path:"/node/15",replace:!0});return}n()});const ys=eu(Lf);ys.use(ru());ys.use(bl);ys.mount("#app");export{jr as A,id as B,ad as C,od as D,cs as E,De as F,Tf as G,ld as H,cd as I,rd as J,Qf as K,Of as L,qf as M,td as N,Co as O,Yr as P,wn as Q,Nf as R,Jf as S,Uf as T,Zf as U,If as V,Kf as W,vf as _,kf as a,$f as b,ca as c,ls as d,qo as e,Wf as f,ed as g,Ro as h,Gt as i,Gf as j,ae as k,Qr as l,zf as m,is as n,Kn as o,fa as p,Vf as q,xe as r,sd as s,Bl as t,nd as u,Yf as v,Xf as w,Ce as x,gc as y,Lt as z};
+别白费力气了，回到你能看到的地方去。`;function jt(e,t){alert(e),t({path:"/node/1",replace:!0})}const bl=mf({history:qu("/pheonix/"),routes:[{path:"/",redirect:"/node/0"},{path:"/node/:id",name:"node",component:()=>Sf(()=>import("./NodeShell-DvNZ3enJ.js"),__vite__mapDeps([0,1])),props:!0}]}),Hf="我还没说完……你真的要走吗？";bl.beforeEach((e,t,n)=>{if(e.name!=="node"){n();return}const r=Number(e.params.id);if(Number.isNaN(r)){jt(xi,n);return}if(vl.has(r)){jt(Ti,n);return}if(!Number.isInteger(r)||Tf(r)==null){jt(xi,n);return}const s=kf(),i=s.ending30Playing.value??s.ending30Playing,o=s.ending30ReadyFor31.value??s.ending30ReadyFor31;if(t.path==="/node/30"&&i&&!o){confirm(Hf)?(s.setEnding30Playing(!1),n()):n(!1);return}if(!s.isUnlocked(r)){if(r===34){jt(jf,n);return}if(r===33){jt(Ff,n);return}jt(Ti,n);return}if(s.forumHauntedAfter26&&Mf.has(r)){s.unlockNode(15),n({path:"/node/15",replace:!0});return}n()});const ys=eu(Lf);ys.use(ru());ys.use(bl);ys.mount("#app");export{jr as A,id as B,ad as C,od as D,cs as E,De as F,Tf as G,ld as H,cd as I,rd as J,Qf as K,Of as L,qf as M,td as N,Co as O,Yr as P,wn as Q,Nf as R,Jf as S,Uf as T,Zf as U,If as V,Kf as W,vf as _,kf as a,$f as b,ca as c,ls as d,qo as e,Wf as f,ed as g,Ro as h,Gt as i,Gf as j,ae as k,Qr as l,zf as m,is as n,Kn as o,fa as p,Vf as q,xe as r,sd as s,Bl as t,nd as u,Yf as v,Xf as w,Ce as x,gc as y,Lt as z};
